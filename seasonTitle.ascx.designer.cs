@@ -10,15 +10,15 @@
 namespace HTTP_5101_FinalProject_N01329988 {
     
     
-    public partial class SiteMaster {
+    public partial class seasonTitle {
         
         /// <summary>
-        /// MainContent control.
+        /// seasontitle control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder MainContent;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl seasontitle;
     }
 }
